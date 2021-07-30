@@ -12,7 +12,7 @@ If you want to give it a try click the link below: <br />
 [Live Demo](https://gabriellima77.github.io/memory_of_the_stone/)
 
 ## Getting started
-If you want to use this app localy, follow the steps bellow:<br />
+If you want to use this app locally, follow the steps below:<br />
 ```
 git clone git@github.com:gabriellima77/memory_of_the_stone.git
 cd memory_of_the_stone
