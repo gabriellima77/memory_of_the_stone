@@ -20,6 +20,6 @@ npm install
 npm start
 ```
 
-## Build with
+## Built with
 - [React](https://reactjs.org/)
 - [HearthStoneAPI](https://hearthstoneapi.com/)
